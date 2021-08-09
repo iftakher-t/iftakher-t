@@ -4,8 +4,6 @@ I'm Iftakher Hossain a Full Stack Web Developer.
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@MdIftakherHoss2)](https://twitter.com/@MdIftakherHoss2)
-
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Octapia

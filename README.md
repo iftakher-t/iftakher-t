@@ -2,12 +2,10 @@
 
 I'm Iftakher Hossain a Full Stack Web Developer.
 
-:mailbox: Reach me out!
-
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Octapia
-- 🤔 I’m looking for React.
+- 🤔 I’m learning React.
 - 📫 How to reach me: hmdiftakher@gmail.com.
 - 😄 Pronouns: Iftakher.
 - ⚡ Fun fact: I play games .

@@ -42,7 +42,7 @@ I'm Iftakher Hossain a Full Stack Web Developer.
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/iftakher/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: hmdiftakher@gmail.com
 
 <details>
@@ -57,7 +57,6 @@ I love to share knowledge , help other developers.
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 

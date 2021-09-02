@@ -8,7 +8,7 @@ I'm Iftakher Hossain a Full Stack Web Developer.
 - 🤔 I’m learning React.
 - 📫 How to reach me: hmdiftakher@gmail.com.
 - 😄 Pronouns: Iftakher.
-- ⚡ Fun fact: I play games .
+- ⚡ Fun fact: Play game.
 
 #### Top Technologies
 
@@ -57,5 +57,4 @@ I love to share knowledge , help other developers.
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
+[vscodetu[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s

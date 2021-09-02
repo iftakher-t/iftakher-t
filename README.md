@@ -57,4 +57,4 @@ I love to share knowledge , help other developers.
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetu[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
+[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
